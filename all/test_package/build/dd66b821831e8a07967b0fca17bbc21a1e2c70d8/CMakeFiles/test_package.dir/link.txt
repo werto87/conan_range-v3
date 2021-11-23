@@ -1,0 +1,1 @@
+/usr/bin/g++  -m64 -g CMakeFiles/test_package.dir/test_package.cpp.o -o bin/test_package 
